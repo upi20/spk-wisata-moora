@@ -1,7 +1,7 @@
 {
-    "name": "upi20/sipankab",
+    "name": "upi20/spk-wisata-moora",
     "type": "project",
-    "description": "Sistem Pendukung Keputusan untuk Proses seleksi penerimaan panwaslu kecamatan",
+    "description": "SPK Wisata Pendakian Bandung Raya",
     "keywords": [
         "framework",
         "laravel",
@@ -10,8 +10,7 @@
         "bootstrap5",
         "rbac",
         "menu-management",
-        "spk",
-        "pkh"
+        "spk"
     ],
     "license": "GNU",
     "require": {

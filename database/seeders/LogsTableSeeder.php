@@ -494,7 +494,7 @@ class LogsTableSeeder extends Seeder
                 'log_date' => '2023-06-01 16:20:45',
                 'table_name' => 'calon',
                 'log_type' => 'create',
-                'data' => '{"kecamatan_id":"1","nama":"ISEP LUTPI NUR","nomor_pendaftaran":"KABCMS0001","jenis_kelamin":"LAKI-LAKI","tanggal_lahir":"1965-08-10","nomor_telepon":"0835841","updated_at":"2023-06-01T09:20:45.000000Z","created_at":"2023-06-01T09:20:45.000000Z","id":885}',
+                'data' => '{"kecamatan_id":"1","nama":"Super Admin","nomor_pendaftaran":"KABCMS0001","jenis_kelamin":"LAKI-LAKI","tanggal_lahir":"1965-08-10","nomor_telepon":"0835841","updated_at":"2023-06-01T09:20:45.000000Z","created_at":"2023-06-01T09:20:45.000000Z","id":885}',
             ),
             53 => 
             array (
@@ -503,7 +503,7 @@ class LogsTableSeeder extends Seeder
                 'log_date' => '2023-06-01 16:20:51',
                 'table_name' => 'calon',
                 'log_type' => 'delete',
-                'data' => '{"id":885,"kecamatan_id":1,"nama":"ISEP LUTPI NUR","nomor_pendaftaran":"KABCMS0001","jenis_kelamin":"LAKI-LAKI","tanggal_lahir":"1965-08-10","nomor_telepon":"0835841","import_id":null,"created_at":"2023-06-01 16:20:45","updated_at":"2023-06-01 16:20:45"}',
+                'data' => '{"id":885,"kecamatan_id":1,"nama":"Super Admin","nomor_pendaftaran":"KABCMS0001","jenis_kelamin":"LAKI-LAKI","tanggal_lahir":"1965-08-10","nomor_telepon":"0835841","import_id":null,"created_at":"2023-06-01 16:20:45","updated_at":"2023-06-01 16:20:45"}',
             ),
             54 => 
             array (
